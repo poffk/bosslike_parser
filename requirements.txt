@@ -13,4 +13,4 @@ requests==2.11.1
 requests-toolbelt==0.7.0
 selenium==3.14.0
 tqdm==4.11.2
-urllib3==1.23
+urllib3==1.26.5
